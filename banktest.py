@@ -12,7 +12,7 @@ url_acc_name = 'https://doob.world:6442/v1/accounts/{account}/name?bank=050000'
 
 url_acc_statement = 'https://doob.world:6442/v1/statements/{account}'
 url_acc_statement_date = 'https://doob.world:6442/v1/statements/{account}?from={Startdate}&to={Enddate}&'
-url_acc_statement_page = 'https://doob.world:6442/v1/statements/{account}?from={Startdate}&to={Enddate}&page={a}&size={b}'         1231212
+url_acc_statement_page = 'https://doob.world:6442/v1/statements/{account}?from={Startdate}&to={Enddate}&page={a}&size={b}xcvghbjklghjk'
 url_acc_statement_rec = 'https://doob.world:6442/v1/statements/{account}?&record={c}'
 url_acc_statement_rec_page = 'https://doob.world:6442/v1/statements/{account}?&page={a}&size={b}&record={c}'
 
